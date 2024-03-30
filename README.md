@@ -1,4 +1,4 @@
-# PoliTO-MLDL
+# Integrating RGB and sEMG Signals for Egocentric Action Recognition: A Multimodal Approach
 #### Code related to the classification component of the project EgoVision23 for the PoliTO course in Machine Learning and Deep Learning.
 ![image](https://github.com/al3ssandrocaruso/PoliTo-MLDL/assets/92364264/869c9f16-13ed-4c7e-8dc5-128c7c92c610)
 
