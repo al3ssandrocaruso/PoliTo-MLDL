@@ -3,7 +3,7 @@
 ![image](https://github.com/al3ssandrocaruso/PoliTo-MLDL/assets/92364264/869c9f16-13ed-4c7e-8dc5-128c7c92c610)
 
 
-## Implemented Models
+## Implemented Models:
 - Single modality linear classifier
 - Single modality LSTM
 - Multi-modal linear classifier with late-fusion
@@ -12,5 +12,5 @@
 - Multi-modal linear classifier with late fusion and cross-attention based weights
 - Multi-modal LSTM classifier with late fusion and cross-attention based weights
 
-## Link to the paper
+## Link to the report:
 https://drive.google.com/file/d/1yiME2yoxiZk1s16BEBBzl2P0hxbKKdCa/view
